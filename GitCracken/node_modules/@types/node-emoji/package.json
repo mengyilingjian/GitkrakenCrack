@@ -1,0 +1,33 @@
+{
+    "name": "@types/node-emoji",
+    "version": "1.8.1",
+    "description": "TypeScript definitions for node-emoji",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Tristan Jones",
+            "url": "https://github.com/jonestristand",
+            "githubUsername": "jonestristand"
+        },
+        {
+            "name": "styu",
+            "url": "https://github.com/styu",
+            "githubUsername": "styu"
+        },
+        {
+            "name": "rimiti",
+            "url": "https://github.com/rimiti",
+            "githubUsername": "rimiti"
+        }
+    ],
+    "main": "",
+    "types": "index",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "d99ab9209df99380003e6b464805ba09bfa6e3dff57ee32e053fb647ca50c4e0",
+    "typeScriptVersion": "2.0"
+}
